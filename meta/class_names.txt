@@ -1,0 +1,15 @@
+road
+sidewalk
+island
+Vegetal_ground
+building
+other_natural
+tree
+potted_plant
+signage
+bollard
+trash_can
+barrier
+pedestrian
+car
+unclassified
