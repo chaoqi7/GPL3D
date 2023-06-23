@@ -11,7 +11,7 @@ Step 3. [Split each part into different objects](Data_Process/SplitPart_objects.
 
 Class Labels are in *Class Labels*
 
-Scene graphs recording the object relationships are in *DataSet*
+Scene Graphs recording the object relationships are in *DataSet*
 
 ## Class Labels
 
