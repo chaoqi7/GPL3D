@@ -1,6 +1,4 @@
-# GPL3D
-
-GPL3D DataSet from Instance-incremental Scene Graph Generation from Real-world Point Clouds via Normalizing Flows
+# GPL3D DataSet from Instance-incremental Scene Graph Generation from Real-world Point Clouds via Normalizing Flows
 
 ## Data process of GPL3D
 Step 1. Download the [Paris-Lille-3D](https://npm3d.fr/paris-lille-3d)
